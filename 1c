@@ -1,0 +1,13 @@
+my_tuple = (1, 2, 3, 4, 3, 2, 1, 2, 3, 5, 4, 3, 2, 1)
+
+# To count a specific number, say 1:
+one = my_tuple.count(1)
+two = my_tuple.count(2)
+three = my_tuple.count(3)
+four = my_tuple.count(4)
+five = my_tuple.count(5)
+print(f"The number 1 appears {one} times.")
+print(f"The number 2 appears {two} times.")
+print(f"The number 3 appears {three} times.")
+print(f"The number 4 appears {four} times.")
+print(f"The number 5 appears {five} times.")
