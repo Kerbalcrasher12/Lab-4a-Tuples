@@ -2,6 +2,6 @@ userinput=[]
 for i in range(5):
     val = input("Please enter:  ")
     userinput.append(val)
-Tuple=tuple(userinput)
+my_tuple=tuple(userinput)
 
-print(Tuple)
+print(my_tuple)
