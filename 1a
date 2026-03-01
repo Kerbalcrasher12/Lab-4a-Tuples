@@ -1,0 +1,7 @@
+userinput=[]
+for i in range(5):
+    val = input("Please enter:  ")
+    userinput.append(val)
+Tuple=tuple(userinput)
+
+print(Tuple)
