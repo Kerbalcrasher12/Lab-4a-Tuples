@@ -1,6 +1,5 @@
 my_tuple = (1, 2, 3, 4, 3, 2, 1, 2, 3, 5, 4, 3, 2, 1)
 
-# To count a specific number, say 1:
 one = my_tuple.count(1)
 two = my_tuple.count(2)
 three = my_tuple.count(3)
